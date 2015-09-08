@@ -8,4 +8,4 @@ Here is a list of sources that I used while studying this. This list
 will be updated as more snippets get pushed.
 
 1.[WildML's Implementing a Neural Network from Scratch – An
-Introduction](http://www.wildml.com/2015/09/implementing-a-neural-network-from-scratch/)
+Introduction](http://www.wildml.com/2015/09/implementing-a-neural-network-from-scratch/) Sample Source: <https://github.com/dennybritz/nn-from-scratch/blob/master/nn-from-scratch.ipynb>
